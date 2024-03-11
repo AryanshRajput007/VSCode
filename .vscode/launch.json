@@ -1,0 +1,456 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Question3005",
+            "request": "launch",
+            "mainClass": "Java.Question3005",
+            "projectName": "Codes_ddf0df3e"
+        },
+        {
+            "type": "java",
+            "name": "Question2540",
+            "request": "launch",
+            "mainClass": "Java.Question2540",
+            "projectName": "Codes_ddf0df3e"
+        },
+        {
+            "type": "java",
+            "name": "BoundaryTraversalSelf",
+            "request": "launch",
+            "mainClass": "Java.BoundaryTraversalSelf",
+            "projectName": "Codes_ddf0df3e"
+        },
+        {
+            "type": "java",
+            "name": "LinkedListSort",
+            "request": "launch",
+            "mainClass": "Java.LinkedListSort",
+            "projectName": "Codes_ddf0df3e"
+        },
+        {
+            "type": "java",
+            "name": "BoundaryTraversal",
+            "request": "launch",
+            "mainClass": "Java.BoundaryTraversal",
+            "projectName": "Codes_ddf0df3e"
+        },
+        {
+            "type": "java",
+            "name": "Question141",
+            "request": "launch",
+            "mainClass": "Java.Question141",
+            "projectName": "Codes_ddf0df3e"
+        },
+        {
+            "type": "java",
+            "name": "QueueUsingArray",
+            "request": "launch",
+            "mainClass": "Java.QueueUsingArray",
+            "projectName": "Codes_ddf0df3e"
+        },
+        {
+            "type": "java",
+            "name": "CountingSort",
+            "request": "launch",
+            "mainClass": "Java.CountingSort",
+            "projectName": "Codes_ddf0df3e"
+        },
+        {
+            "type": "java",
+            "name": "Question49",
+            "request": "launch",
+            "mainClass": "Java.Question49",
+            "projectName": "Codes_ddf0df3e"
+        },
+        {
+            "type": "java",
+            "name": "Question977",
+            "request": "launch",
+            "mainClass": "Java.Question977",
+            "projectName": "Codes_ddf0df3e"
+        },
+        {
+            "type": "java",
+            "name": "Question2864",
+            "request": "launch",
+            "mainClass": "Java.Question2864",
+            "projectName": "Codes_ddf0df3e"
+        },
+        {
+            "type": "java",
+            "name": "Question1290",
+            "request": "launch",
+            "mainClass": "Java.Question1290",
+            "projectName": "Codes_ddf0df3e"
+        },
+        {
+            "type": "java",
+            "name": "linkedlist",
+            "request": "launch",
+            "mainClass": "Java.linkedlist",
+            "projectName": "Codes_ddf0df3e"
+        },
+        {
+            "type": "java",
+            "name": "Question92",
+            "request": "launch",
+            "mainClass": "Java.Question92",
+            "projectName": "Codes_ddf0df3e"
+        },
+        {
+            "type": "java",
+            "name": "Question707",
+            "request": "launch",
+            "mainClass": "Java.Question707",
+            "projectName": "Codes_ddf0df3e"
+        },
+        {
+            "type": "java",
+            "name": "Question542",
+            "request": "launch",
+            "mainClass": "Java.Question542",
+            "projectName": "Codes_ddf0df3e"
+        },
+        {
+            "type": "java",
+            "name": "MaxDepth",
+            "request": "launch",
+            "mainClass": "Java.MaxDepth",
+            "projectName": "Codes_ddf0df3e"
+        },
+        {
+            "type": "java",
+            "name": "MaxDepthOfTree",
+            "request": "launch",
+            "mainClass": "Java.MaxDepthOfTree",
+            "projectName": "Codes_ddf0df3e"
+        },
+        {
+            "type": "java",
+            "name": "Question2529",
+            "request": "launch",
+            "mainClass": "Java.Question2529",
+            "projectName": "Codes_ddf0df3e"
+        },
+        {
+            "type": "java",
+            "name": "Question415",
+            "request": "launch",
+            "mainClass": "Java.Question415",
+            "projectName": "Codes_ddf0df3e"
+        },
+        {
+            "type": "java",
+            "name": "Question61",
+            "request": "launch",
+            "mainClass": "Java.Question61",
+            "projectName": "Codes_ddf0df3e"
+        },
+        {
+            "type": "java",
+            "name": "BinarySearchModified",
+            "request": "launch",
+            "mainClass": "Java.BinarySearchModified",
+            "projectName": "Codes_ddf0df3e"
+        },
+        {
+            "type": "java",
+            "name": "BinarySearchAlgo",
+            "request": "launch",
+            "mainClass": "Java.BinarySearchAlgo",
+            "projectName": "Codes_ddf0df3e"
+        },
+        {
+            "type": "java",
+            "name": "Question33",
+            "request": "launch",
+            "mainClass": "Java.Question33",
+            "projectName": "Codes_ddf0df3e"
+        },
+        {
+            "type": "java",
+            "name": "Question238",
+            "request": "launch",
+            "mainClass": "Java.Question238",
+            "projectName": "Codes_ddf0df3e"
+        },
+        {
+            "type": "java",
+            "name": "Question268",
+            "request": "launch",
+            "mainClass": "Java.Question268",
+            "projectName": "Codes_ddf0df3e"
+        },
+        {
+            "type": "java",
+            "name": "Question896",
+            "request": "launch",
+            "mainClass": "Java.Question896",
+            "projectName": "Codes_ddf0df3e"
+        },
+        {
+            "type": "java",
+            "name": "Question1929",
+            "request": "launch",
+            "mainClass": "Java.Question1929",
+            "projectName": "Codes_ddf0df3e"
+        },
+        {
+            "type": "java",
+            "name": "Question451",
+            "request": "launch",
+            "mainClass": "Java.Question451",
+            "projectName": "Codes_ddf0df3e"
+        },
+        {
+            "type": "java",
+            "name": "Question287",
+            "request": "launch",
+            "mainClass": "Java.Question287",
+            "projectName": "Codes_ddf0df3e"
+        },
+        {
+            "type": "java",
+            "name": "Question2971",
+            "request": "launch",
+            "mainClass": "Java.Question2971",
+            "projectName": "Codes_ddf0df3e"
+        },
+        {
+            "type": "java",
+            "name": "Question263",
+            "request": "launch",
+            "mainClass": "Java.Question263",
+            "projectName": "Codes_ddf0df3e"
+        },
+        {
+            "type": "java",
+            "name": "Question258",
+            "request": "launch",
+            "mainClass": "Java.Question258",
+            "projectName": "Codes_ddf0df3e"
+        },
+        {
+            "type": "java",
+            "name": "Question231",
+            "request": "launch",
+            "mainClass": "Java.Question231",
+            "projectName": "Codes_ddf0df3e"
+        },
+        {
+            "type": "java",
+            "name": "Question58",
+            "request": "launch",
+            "mainClass": "Java.Question58",
+            "projectName": "Codes_ddf0df3e"
+        },
+        {
+            "type": "java",
+            "name": "Question2460",
+            "request": "launch",
+            "mainClass": "Java.Question2460",
+            "projectName": "Codes_ddf0df3e"
+        },
+        {
+            "type": "java",
+            "name": "Question48",
+            "request": "launch",
+            "mainClass": "Java.Question48",
+            "projectName": "Codes_ddf0df3e"
+        },
+        {
+            "type": "java",
+            "name": "LowestCommonAncestorbinaryTree",
+            "request": "launch",
+            "mainClass": "Java.LowestCommonAncestorbinaryTree",
+            "projectName": "Codes_ddf0df3e"
+        },
+        {
+            "type": "java",
+            "name": "Question2149",
+            "request": "launch",
+            "mainClass": "Java.Question2149",
+            "projectName": "Codes_ddf0df3e"
+        },
+        {
+            "type": "java",
+            "name": "MirroredTree",
+            "request": "launch",
+            "mainClass": "Java.MirroredTree",
+            "projectName": "Codes_ddf0df3e"
+        },
+        {
+            "type": "java",
+            "name": "HeightAndDepth",
+            "request": "launch",
+            "mainClass": "Java.HeightAndDepth",
+            "projectName": "Codes_ddf0df3e"
+        },
+        {
+            "type": "java",
+            "name": "Question169",
+            "request": "launch",
+            "mainClass": "Java.Question169",
+            "projectName": "Codes_ddf0df3e"
+        },
+        {
+            "type": "java",
+            "name": "Tree",
+            "request": "launch",
+            "mainClass": "Java.Aarzoo.Tree",
+            "projectName": "Codes_ddf0df3e"
+        },
+        {
+            "type": "java",
+            "name": "Question136",
+            "request": "launch",
+            "mainClass": "Java.Question136",
+            "projectName": "Codes_ddf0df3e"
+        },
+        {
+            "type": "java",
+            "name": "Question88",
+            "request": "launch",
+            "mainClass": "Java.Question88",
+            "projectName": "Codes_ddf0df3e"
+        },
+        {
+            "type": "java",
+            "name": "Question1463",
+            "request": "launch",
+            "mainClass": "Java.Question1463",
+            "projectName": "Codes_ddf0df3e"
+        },
+        {
+            "type": "java",
+            "name": "MultiDimensionalArrays",
+            "request": "launch",
+            "mainClass": "Java.MultiDimensionalArrays",
+            "projectName": "Codes_ddf0df3e"
+        },
+        {
+            "type": "java",
+            "name": "CircularQueue",
+            "request": "launch",
+            "mainClass": "Java.CircularQueue",
+            "projectName": "Codes_ddf0df3e"
+        },
+        {
+            "type": "java",
+            "name": "app",
+            "request": "launch",
+            "mainClass": "JavaFX.app",
+            "projectName": "Codes_ddf0df3e"
+        },
+        {
+            "type": "java",
+            "name": "StaticInit",
+            "request": "launch",
+            "mainClass": "Java.StaticInit",
+            "projectName": "Codes_ddf0df3e"
+        },
+        {
+            "type": "java",
+            "name": "staticInit",
+            "request": "launch",
+            "mainClass": "Java.staticInit",
+            "projectName": "Codes_ddf0df3e"
+        },
+        {
+            "type": "java",
+            "name": "Question234",
+            "request": "launch",
+            "mainClass": "Java.Question234",
+            "projectName": "Codes_ddf0df3e"
+        },
+        {
+            "type": "java",
+            "name": "Question46",
+            "request": "launch",
+            "mainClass": "Java.Question46",
+            "projectName": "Codes_ddf0df3e"
+        },
+        {
+            "type": "java",
+            "name": "BinaryAddition",
+            "request": "launch",
+            "mainClass": "Java.BinaryAddition",
+            "projectName": "Codes_ddf0df3e"
+        },
+        {
+            "type": "java",
+            "name": "DoublyLinkedList",
+            "request": "launch",
+            "mainClass": "Java.DoublyLinkedList",
+            "projectName": "Codes_ddf0df3e"
+        },
+        {
+            "type": "java",
+            "name": "Question279",
+            "request": "launch",
+            "mainClass": "Java.Question279",
+            "projectName": "Codes_ddf0df3e"
+        },
+        {
+            "type": "java",
+            "name": "BalancedBST",
+            "request": "launch",
+            "mainClass": "Java.BalancedBST",
+            "projectName": "Codes_ddf0df3e"
+        },
+        {
+            "type": "java",
+            "name": "Question1920",
+            "request": "launch",
+            "mainClass": "Java.Question1920",
+            "projectName": "Codes_ddf0df3e"
+        },
+        {
+            "type": "java",
+            "name": "StacksUsingQueue",
+            "request": "launch",
+            "mainClass": "Java.StacksUsingQueue",
+            "projectName": "Codes_ddf0df3e"
+        },
+        {
+            "type": "java",
+            "name": "QueuesUsingLinkedList",
+            "request": "launch",
+            "mainClass": "Java.QueuesUsingLinkedList",
+            "projectName": "Codes_ddf0df3e"
+        },
+        {
+            "type": "java",
+            "name": "Question19",
+            "request": "launch",
+            "mainClass": "Java.Question19",
+            "projectName": "Codes_ddf0df3e"
+        },
+        {
+            "type": "java",
+            "name": "app",
+            "request": "launch",
+            "mainClass": "JavaFX.app",
+            "projectName": "Python_f6ee44c4",
+            "vmArgs": "--module-path \"C:/ALL/Pushti's Codes/My Java Workspace/javafx-sdk-21.0.1/lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Calculator",
+            "request": "launch",
+            "mainClass": "JavaFx.Calculator",
+            "projectName": "Python_f6ee44c4"
+        }
+    ]
+}

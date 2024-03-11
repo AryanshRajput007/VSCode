@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Full Screen Container</title>
+  <style>
+    body, html {
+      margin: 0;
+      padding: 0;
+      height: 100%;
+    }
+
+    .fullscreen-container {
+      box-sizing: border-box; /* Include padding and border in the element's total width and height */
+      width: calc(100% - 30px); /* 100% - (15px on left + 15px on right) */
+      height: calc(100vh - 30px); /* 100vh - (15px on top + 15px on bottom) */
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      background-color: #f0f0f0; /* Set your desired background color */
+      padding: 15px; /* Padding on all sides */
+    }
+
+    .content {
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+  <div class="fullscreen-container">
+    <div class="content">
+      <h1>Hello, Full Screen!</h1>
+      <p>This is a full-screen container example.</p>
+    </div>
+  </div>
+</body>
+</html>

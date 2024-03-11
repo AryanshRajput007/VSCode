@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bank System</title>
+</head>
+<body>
+    <h1>Welcome to the Bank System</h1>
+    <form action="/create_account" method="post">
+        <label for="name">Name:</label>
+        <input type="text" name="name" required><br>
+
+        <label for="age">Age:</label>
+        <input type="number" name="age" required><br>
+
+        <label for="customer_address">Customer Address:</label>
+        <input type="text" name="customer_address" required><br>
+
+        <label for="customer_contact_number">Customer Contact Number:</label>
+        <input type="number" name="customer_contact_number" required><br>
+
+        <label for="account_type">Account Type:</label>
+        <input type="text" name="account_type" required><br>
+
+        <label>Owner Name and Customer Number:</label><br>
+        <input type="radio" name="new_choice" value="1" checked> Same
+        <input type="radio" name="new_choice" value="2"> Different<br>
+
+        <label for="owner_name">Owner Name:</label>
+        <input type="text" name="owner_name"><br>
+
+        <label for="balance">Initial Balance:</label>
+        <input type="number" name="balance" required><br>
+
+        <label for="customer_unique_user_name">Unique User Name:</label>
+        <input type="text" name="customer_unique_user_name" required><br>
+
+        <button type="submit">Create Account</button>
+    </form>
+</body>
+</html>

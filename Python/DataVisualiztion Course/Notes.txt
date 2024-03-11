@@ -1,0 +1,26 @@
+
+Course insight:-
+1. Excel
+2. Python with machine learning concepts(MatPlotLib)
+3. Tableau concept
+9413664420 Gaurav sir
+9009526270 
+
+
+What is data analysis?
+-> Data analysis involves examining and interpreting raw data to extract meaningful insights, identify patterns and make informed decisions. It employs various statistical and computational techniques to uncover trends, correlation and valuable information, enhancing understanding and facilitating informed decision-making in various fields such as business, science nad research, and.
+
+-> Data visualization is graphical representation of data and information using visual elements such as charts, graphs, maps, other visual techniques.
+Key functions of Data visualization:-
+1. Simplification:- It simplifies the complex data sets.
+2. Communication:- It enables easy and effective 
+3. 
+4. Story telling
+5. Exploration
+
+Types of Analytics:
+1. Descriptive Analytics:- Tells you what happened in the past."Insight in the past".
+2. Diagnostic Analytics:- Helps you understand why something happened in the past.
+3. Predictive Analytics:- Predict what is most likely to happen in the future."Understanding the future".
+4. Prescriptive Analytics:- Recommended actions you can take to affect those outcomes."Advice on possible outcomes".
+
